@@ -1,0 +1,3 @@
+CurrencyConverter==0.13.10
+PySide2==5.13.2
+shiboken2==5.13.2
