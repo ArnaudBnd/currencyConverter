@@ -2,6 +2,8 @@ Creer un virtualenv: "virtualenv -p python3 env"
 
 Actver l'environement: "source env/bin/activate"
 
+Lancer: "python3 main.py"
+
 Installer les dependences: "pip install -r requirements.txt"
 
 Afficher le chemin vers l'executable: "which python"
