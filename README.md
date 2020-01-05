@@ -6,8 +6,6 @@ Projet du cours de python, dans le but de créer un convertisseur de devices.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
 ```
 Python version 3.0.0
 ```
